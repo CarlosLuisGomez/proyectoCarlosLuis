@@ -8,8 +8,11 @@ public class CalculosMatematicos {
 		//comentario para commit
 		return numero % 2 != 0;
 	}
+	
+
 
 	public static int minimo(int a, int b, int c) {
+		//comentario para GIT
 		int min = a;
 		if (b < min)
 			min = b;
