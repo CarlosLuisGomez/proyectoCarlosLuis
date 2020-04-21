@@ -44,6 +44,10 @@ public class CalculosMatematicos {
 		}
 		return primo;
 	}
+	
+	public static boolean noesPrimo(int numero) {
+		return !esPrimo(numero);
+	}
 
 	public static double notaFinal(double inicial, double teoria, double problemas) {
 
