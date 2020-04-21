@@ -48,6 +48,10 @@ public class CalculosMatematicos {
 	public static boolean noesPrimo(int numero) {
 		return !esPrimo(numero);
 	}
+	
+	public double numeroPi() {
+		return Math.PI;
+	}
 
 	public static double notaFinal(double inicial, double teoria, double problemas) {
 
