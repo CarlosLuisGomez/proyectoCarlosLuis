@@ -5,9 +5,16 @@ public class CalculosMatematicos {
 		return numero % 2 == 0;
 	}
 
+
 	public static int metodoNuevo() {
 		return 9;
 	}
+
+	public static String cadena1() {
+		return "Esta es la cadena de la rama SegundaRama";
+	}
+	
+
 
 
 	public static int minimo(int a, int b, int c) {
