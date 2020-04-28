@@ -4,10 +4,7 @@ public class CalculosMatematicos {
 	public static boolean esPar(int numero) {
 		return numero % 2 == 0;
 	}
-	public static boolean esImPar(int numero) {
-		//comentario para commit
-		return numero % 2 != 0;
-	}
+	
 	
 
 
