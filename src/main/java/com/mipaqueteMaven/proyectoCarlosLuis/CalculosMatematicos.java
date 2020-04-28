@@ -4,8 +4,10 @@ public class CalculosMatematicos {
 	public static boolean esPar(int numero) {
 		return numero % 2 == 0;
 	}
-	
-	
+
+	public static int metodoNuevo() {
+		return 9;
+	}
 
 
 	public static int minimo(int a, int b, int c) {
@@ -22,7 +24,9 @@ public class CalculosMatematicos {
 	public static double dividePor(int numerador, int numero) {
 		return (double) numerador / (double) numero;
 	}
-
+	public static int metodoCinco() {
+		return 5;
+	}
 	public static int potencia(int base, int exponente) {
 
 		int resul = 1;
