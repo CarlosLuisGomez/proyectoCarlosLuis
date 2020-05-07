@@ -9,5 +9,9 @@ public class minuevaClase {
 	public String anterior() {
 		return "anterior";
 	}
+	
+	public String tercerMetodo() {
+		return "tercer";
+	}
 
 }
