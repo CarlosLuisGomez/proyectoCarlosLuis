@@ -19,7 +19,10 @@ public class CalculosMatematicos {
 		return "Esta es la cadena de la rama SegundaRama";
 	}
 	
-
+/*
+Aqui está el código que ha añadido Jose Yague despues de un merge
+de su rama
+*/
 
 
 	public static int minimo(int a, int b, int c) {
