@@ -9,6 +9,7 @@ public class CalculosMatematicos {
 	public static int metodoNuevo() {
 		return 9;
 	}
+	/*comentario*/
 
 	public static String cadena1() {
 		return "Esta es la cadena de la rama SegundaRama";
